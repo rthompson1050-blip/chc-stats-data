@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T22:36-06:00",
+  "updated": "2026-11-03T22:43-07:00",
   "conference_play_start": "2027-01-02",
   "teams": [
     {
@@ -128,15 +128,15 @@
       "logo": "/images/logos/unlv.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 0,
+      "w": 1,
       "l": 0,
-      "home_w": 0,
+      "home_w": 1,
       "home_l": 0,
       "away_w": 0,
       "away_l": 0,
       "neutral_w": 0,
       "neutral_l": 0,
-      "streak": ""
+      "streak": "W1"
     },
     {
       "slug": "utep",
@@ -162,15 +162,15 @@
       "logo": "/images/logos/wyoming.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 0,
+      "w": 1,
       "l": 0,
-      "home_w": 0,
+      "home_w": 1,
       "home_l": 0,
       "away_w": 0,
       "away_l": 0,
       "neutral_w": 0,
       "neutral_l": 0,
-      "streak": ""
+      "streak": "W1"
     }
   ]
 }
