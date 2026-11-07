@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:43-07:00",
+  "updated": "2026-11-06T20:43-07:00",
   "conference_play_start": "2027-01-02",
   "teams": [
     {
@@ -9,15 +9,15 @@
       "logo": "/images/logos/air-force.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 0,
-      "l": 0,
-      "home_w": 0,
+      "w": 1,
+      "l": 1,
+      "home_w": 1,
       "home_l": 0,
       "away_w": 0,
-      "away_l": 0,
+      "away_l": 1,
       "neutral_w": 0,
       "neutral_l": 0,
-      "streak": ""
+      "streak": "W1"
     },
     {
       "slug": "grand-canyon",
@@ -146,14 +146,14 @@
       "conf_w": 0,
       "conf_l": 0,
       "w": 0,
-      "l": 0,
+      "l": 1,
       "home_w": 0,
       "home_l": 0,
       "away_w": 0,
       "away_l": 0,
       "neutral_w": 0,
-      "neutral_l": 0,
-      "streak": ""
+      "neutral_l": 1,
+      "streak": "L1"
     },
     {
       "slug": "wyoming",
@@ -162,15 +162,15 @@
       "logo": "/images/logos/wyoming.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 1,
+      "w": 2,
       "l": 0,
-      "home_w": 1,
+      "home_w": 2,
       "home_l": 0,
       "away_w": 0,
       "away_l": 0,
       "neutral_w": 0,
       "neutral_l": 0,
-      "streak": "W1"
+      "streak": "W2"
     }
   ]
 }
