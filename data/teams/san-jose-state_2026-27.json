@@ -3,7 +3,7 @@
   "name": "San José State",
   "color": "#0055A2",
   "logo": "/images/logos/san-jose-state.png",
-  "updated": "2026-11-09T15:37-07:00",
+  "updated": "2026-11-09T15:47-07:00",
   "games_played": 1,
   "players": [
     {
@@ -53,7 +53,7 @@
       "pos": "G",
       "headshot": "",
       "gp": 1,
-      "min": 34.0,
+      "min": 33.0,
       "fgm": 3,
       "fga": 8,
       "tpm": 1,
@@ -200,7 +200,7 @@
       "pos": "F",
       "headshot": "",
       "gp": 1,
-      "min": 20.0,
+      "min": 19.0,
       "fgm": 5,
       "fga": 7,
       "tpm": 4,
