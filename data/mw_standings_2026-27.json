@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:31-07:00",
+  "updated": "2026-11-10T20:37-07:00",
   "conference_play_start": "2027-01-02",
   "teams": [
     {
@@ -163,14 +163,14 @@
       "conf_w": 0,
       "conf_l": 0,
       "w": 2,
-      "l": 0,
+      "l": 1,
       "home_w": 2,
       "home_l": 0,
       "away_w": 0,
-      "away_l": 0,
+      "away_l": 1,
       "neutral_w": 0,
       "neutral_l": 0,
-      "streak": "W2"
+      "streak": "L1"
     }
   ]
 }
