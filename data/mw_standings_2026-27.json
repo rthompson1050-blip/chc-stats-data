@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T21:52-07:00",
+  "updated": "2026-11-11T17:33-07:00",
   "conference_play_start": "2027-01-02",
   "teams": [
     {
@@ -9,15 +9,15 @@
       "logo": "/images/logos/air-force.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 2,
+      "w": 3,
       "l": 1,
-      "home_w": 2,
+      "home_w": 3,
       "home_l": 0,
       "away_w": 0,
       "away_l": 1,
       "neutral_w": 0,
       "neutral_l": 0,
-      "streak": "W2"
+      "streak": "W3"
     },
     {
       "slug": "grand-canyon",
