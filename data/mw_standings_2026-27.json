@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T22:19-07:00",
+  "updated": "2026-11-11T23:29-07:00",
   "conference_play_start": "2027-01-02",
   "teams": [
     {
@@ -61,14 +61,14 @@
       "conf_w": 0,
       "conf_l": 0,
       "w": 2,
-      "l": 0,
+      "l": 1,
       "home_w": 1,
       "home_l": 0,
       "away_w": 0,
-      "away_l": 0,
+      "away_l": 1,
       "neutral_w": 1,
       "neutral_l": 0,
-      "streak": "W2"
+      "streak": "L1"
     },
     {
       "slug": "new-mexico",
