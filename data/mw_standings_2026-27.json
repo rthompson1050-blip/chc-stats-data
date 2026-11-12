@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T17:33-07:00",
+  "updated": "2026-11-11T18:38-07:00",
   "conference_play_start": "2027-01-02",
   "teams": [
     {
@@ -111,15 +111,15 @@
       "logo": "/images/logos/uc-davis.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 1,
+      "w": 2,
       "l": 1,
-      "home_w": 1,
+      "home_w": 2,
       "home_l": 1,
       "away_w": 0,
       "away_l": 0,
       "neutral_w": 0,
       "neutral_l": 0,
-      "streak": "W1"
+      "streak": "W2"
     },
     {
       "slug": "unlv",
