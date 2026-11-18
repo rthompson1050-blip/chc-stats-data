@@ -3,7 +3,7 @@
   "name": "New Mexico",
   "color": "#BA0C2F",
   "logo": "/images/logos/new-mexico.png",
-  "updated": "2026-11-15T00:54-07:00",
+  "updated": "2026-11-17T23:16-07:00",
   "games_played": 4,
   "players": [
     {
@@ -279,5 +279,8 @@
       "pf": 0,
       "pts": 0
     }
+  ],
+  "source_credits": [
+    "NCAA.com data via ncaa-api.henrygd.me (unofficial mirror)"
   ]
 }

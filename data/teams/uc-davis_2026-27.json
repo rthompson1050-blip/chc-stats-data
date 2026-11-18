@@ -3,7 +3,7 @@
   "name": "UC Davis",
   "color": "#022851",
   "logo": "/images/logos/uc-davis.png",
-  "updated": "2026-11-15T00:55-07:00",
+  "updated": "2026-11-17T23:16-07:00",
   "games_played": 4,
   "players": [
     {
@@ -342,5 +342,8 @@
       "pf": 2,
       "pts": 15
     }
+  ],
+  "source_credits": [
+    "NCAA.com data via ncaa-api.henrygd.me (unofficial mirror)"
   ]
 }
