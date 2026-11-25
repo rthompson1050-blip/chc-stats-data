@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T00:52-07:00",
+  "updated": "2026-11-25T00:00-07:00",
   "conference_play_start": "2027-01-02",
   "teams": [
     {
@@ -9,15 +9,15 @@
       "logo": "/images/logos/air-force.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 3,
-      "l": 2,
+      "w": 4,
+      "l": 3,
       "home_w": 3,
       "home_l": 0,
       "away_w": 0,
-      "away_l": 2,
-      "neutral_w": 0,
+      "away_l": 3,
+      "neutral_w": 1,
       "neutral_l": 0,
-      "streak": "L1"
+      "streak": "W1"
     },
     {
       "slug": "grand-canyon",
@@ -26,15 +26,15 @@
       "logo": "/images/logos/grand-canyon.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 4,
+      "w": 5,
       "l": 0,
       "home_w": 4,
       "home_l": 0,
       "away_w": 0,
       "away_l": 0,
-      "neutral_w": 0,
+      "neutral_w": 1,
       "neutral_l": 0,
-      "streak": "W4"
+      "streak": "W5"
     },
     {
       "slug": "hawaii",
@@ -60,15 +60,15 @@
       "logo": "/images/logos/nevada.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 3,
+      "w": 5,
       "l": 2,
       "home_w": 2,
       "home_l": 1,
       "away_w": 0,
       "away_l": 1,
-      "neutral_w": 1,
+      "neutral_w": 3,
       "neutral_l": 0,
-      "streak": "W1"
+      "streak": "W3"
     },
     {
       "slug": "new-mexico",
@@ -78,14 +78,14 @@
       "conf_w": 0,
       "conf_l": 0,
       "w": 3,
-      "l": 1,
+      "l": 2,
       "home_w": 3,
       "home_l": 0,
       "away_w": 0,
-      "away_l": 1,
+      "away_l": 2,
       "neutral_w": 0,
       "neutral_l": 0,
-      "streak": "L1"
+      "streak": "L2"
     },
     {
       "slug": "san-jose-state",
@@ -94,15 +94,15 @@
       "logo": "/images/logos/san-jose-state.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 3,
-      "l": 2,
+      "w": 4,
+      "l": 3,
       "home_w": 3,
       "home_l": 1,
       "away_w": 0,
       "away_l": 1,
-      "neutral_w": 0,
-      "neutral_l": 0,
-      "streak": "W2"
+      "neutral_w": 1,
+      "neutral_l": 1,
+      "streak": "W1"
     },
     {
       "slug": "uc-davis",
@@ -128,15 +128,15 @@
       "logo": "/images/logos/unlv.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 3,
+      "w": 4,
       "l": 3,
-      "home_w": 3,
+      "home_w": 4,
       "home_l": 0,
       "away_w": 0,
       "away_l": 0,
       "neutral_w": 0,
       "neutral_l": 3,
-      "streak": "L3"
+      "streak": "W1"
     },
     {
       "slug": "utep",
@@ -145,15 +145,15 @@
       "logo": "/images/logos/utep.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 4,
+      "w": 5,
       "l": 1,
       "home_w": 3,
       "home_l": 0,
       "away_w": 1,
       "away_l": 0,
-      "neutral_w": 0,
+      "neutral_w": 1,
       "neutral_l": 1,
-      "streak": "W4"
+      "streak": "W5"
     },
     {
       "slug": "wyoming",
@@ -162,15 +162,15 @@
       "logo": "/images/logos/wyoming.png",
       "conf_w": 0,
       "conf_l": 0,
-      "w": 4,
-      "l": 1,
+      "w": 5,
+      "l": 2,
       "home_w": 3,
       "home_l": 0,
       "away_w": 1,
       "away_l": 1,
-      "neutral_w": 0,
-      "neutral_l": 0,
-      "streak": "W2"
+      "neutral_w": 1,
+      "neutral_l": 1,
+      "streak": "L1"
     }
   ]
 }
