@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T00:52-07:00",
+  "updated": "2026-11-28T00:53-07:00",
   "conference_play_start": "2027-01-02",
   "teams": [
     {
@@ -112,14 +112,14 @@
       "conf_w": 0,
       "conf_l": 0,
       "w": 5,
-      "l": 2,
+      "l": 3,
       "home_w": 2,
       "home_l": 2,
       "away_w": 1,
       "away_l": 0,
       "neutral_w": 2,
-      "neutral_l": 0,
-      "streak": "W2"
+      "neutral_l": 1,
+      "streak": "L1"
     },
     {
       "slug": "unlv",
